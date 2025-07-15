@@ -2185,6 +2185,10 @@
             "name": "LittleBigPlanet Karting (PAL)"
         },
         {
+            "id": "BCES01423",
+            "name": "LittleBigPlanet Karting (PAL)"
+        },
+        {
             "id": "BCES01435",
             "name": "PlayStation All-Stars Battle Royale (PAL)"
         },
@@ -6243,6 +6247,10 @@
         {
             "id": "BLES00447",
             "name": "X-Blades (PAL)"
+        },
+        {
+            "id": "BLES00449",
+            "name": "Need for Speed: Undercover (PAL)"
         },
         {
             "id": "BLES00450",
@@ -16727,6 +16735,10 @@
         {
             "id": "BLUS30451",
             "name": "Fallout 3 Game of the Year Edition (NTSC-U)"
+        },
+        {
+            "id": "BLUS30452",
+            "name": "LEGO Indiana Jones 2: The Adventure Continues (NTSC-U)"
         },
         {
             "id": "BLUS30453",
