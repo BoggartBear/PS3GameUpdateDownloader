@@ -1185,6 +1185,10 @@
             "name": "Gran Turismo 6 (15th Anniversary Limited Edition) (NTSC-A)"
         },
         {
+            "id": "BCAS25020",
+            "name": "Gran Turismo 6 (15th Anniversary Limited Edition) (NTSC-A)"
+        },
+        {
             "id": "BCAS50693",
             "name": "Hatsune Miku: Project Diva F 2nd (NTSC-A)"
         },
@@ -7141,6 +7145,10 @@
             "name": "Driver: San Francisco (PAL)"
         },
         {
+            "id": "BLES00892",
+            "name": "Driver: San Francisco (PAL)"
+        },
+        {
             "id": "BLES00893",
             "name": "Star Wars: The Force Unleashed II (PAL)"
         },
@@ -7582,7 +7590,11 @@
         },
         {
             "id": "BLES01107",
-            "name": "Metal of Honor: Limited Edition (PAL)"
+            "name": "Medal of Honor: Limited Edition (PAL)"
+        },
+        {
+            "id": "BLES01108",
+            "name": "Medal of Honor (PAL)"
         },
         {
             "id": "BLES01110",
@@ -7949,6 +7961,10 @@
             "name": "Le Tour de France (PAL)"
         },
         {
+            "id": "BLES01297",
+            "name": "Duke Nukem Forever (PAL)"
+        },
+        {
             "id": "BLES01298",
             "name": "Need for Speed: The Run (PAL)"
         },
@@ -8138,7 +8154,11 @@
         },
         {
             "id": "BLES01384",
-            "name": "Split/Second Velocity (PAL)"
+            "name": "Assassin's Creed: Revelations (PAL)"
+        },
+        {
+            "id": "BLES01385",
+            "name": "Assassin's Creed: Revelations (PAL)"
         },
         {
             "id": "BLES01386",
@@ -8779,6 +8799,10 @@
         {
             "id": "BLES01677",
             "name": "FIFA 13 (PAL)"
+        },
+        {
+            "id": "BLES01678",
+            "name": "Doom 3: BFG Edition (PAL)"
         },
         {
             "id": "BLES01679",
@@ -19547,6 +19571,10 @@
         {
             "id": "MRTC00002",
             "name": "Lost Planet 2"
+        },
+        {
+            "id": "MRTC00003",
+            "name": "Final Fantasy XIII"
         },
         {
             "id": "MRTC00014",
